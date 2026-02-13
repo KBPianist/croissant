@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/jiahao/Desktop/project/croissant/build",
-  "command": "/usr/bin/g++-12 -Dctp_quoter_EXPORTS -I/home/jiahao/Desktop/project/build/lavieenbluu/include -I/home/jiahao/Desktop/project/build/robust/include -I/home/jiahao/Desktop/project/croissant -O0 -fPIC -std=c++20 -o quoters/ctp/CMakeFiles/ctp_quoter.dir/ctp_quoter.cpp.o -c /home/jiahao/Desktop/project/croissant/quoters/ctp/ctp_quoter.cpp",
-  "file": "/home/jiahao/Desktop/project/croissant/quoters/ctp/ctp_quoter.cpp"
-}
-]
